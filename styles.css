@@ -247,7 +247,7 @@ ul {
  
 }
 .square-item2:hover{
-    background-image: url(../images/imgback.jpg);
+    background-image: url(images/imgback.jpg);
     
   -webkit-transition:all 1s
   ease-in-out .2s;
@@ -545,3 +545,4 @@ h2 {
   color: #54c9e6;
 
 }
+
